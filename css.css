@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 nav {
        background-color: gray;
        border: 3px solid black;
@@ -33,4 +34,41 @@ nav {
    .nav-item a {
        font-weight: bold !important;
        color: black !important;
+=======
+nav {
+       background-color: gray;
+       border: 3px solid black;
+   }
+   
+   h1 {
+       margin: 30px auto;
+   }
+   
+   #p1 {
+       font-size: large;
+       font-weight: bold;
+       text-align: center;
+   }
+   
+   #p2 {
+       font-family: Arial, Helvetica, sans-serif;
+       font-weight: 700;
+       font-size: small;
+       color: black;
+   }
+   
+   .pstyle {
+       background-color: gray;
+       margin: 5px;
+       padding: 10px;
+   }
+   
+   .nav-item {
+       border-bottom: 2px solid black;
+   }
+   
+   .nav-item a {
+       font-weight: bold !important;
+       color: black !important;
+>>>>>>> 01d5b0a2eca80a39b375bb16cd0dd4b44d7f1525
    }
